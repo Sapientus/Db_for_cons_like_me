@@ -1,4 +1,4 @@
-# Hey, this is my test database. I enjoyed doing this do I wish you to enjoy, too
+# Hey, this is my test database. I enjoyed doing this so I wish you to enjoy, too
 
 ### How to use this sh*t? ###
 1. You may load all package into you PC and then just run "main.py". This will rewrite database and ask requests
